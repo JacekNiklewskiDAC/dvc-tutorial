@@ -1,5 +1,4 @@
 [core]
     remote = dvc_storage
 ['remote "dvc_storage"']
-    url = gdrive://1jRUXjucrU1qCDH-_hCMSkFEELKzRajtW
-    gdrive_acknowledge_abuse = true
+    url = gdrive://1WHYG6ytMBFfH_5qy8o3R_CEUmi3WMsA1
