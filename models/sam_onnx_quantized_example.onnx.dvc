@@ -1,0 +1,5 @@
+outs:
+- md5: b70cce5b9418eb7c5f7c5f9ddb3ffaaa
+  size: 4732695
+  hash: md5
+  path: sam_onnx_quantized_example.onnx
