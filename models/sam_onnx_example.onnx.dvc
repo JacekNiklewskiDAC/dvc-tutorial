@@ -1,0 +1,5 @@
+outs:
+- md5: 327cd240c0fffaeeb7d27a50ba1a3ec5
+  size: 16501360
+  hash: md5
+  path: sam_onnx_example.onnx
